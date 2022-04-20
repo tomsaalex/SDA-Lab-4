@@ -1,0 +1,12 @@
+﻿  IteratorMD.cpp
+  MD.cpp
+C:\Users\danie\Desktop\Repos\University\Facultate\Semestrul 2\Structuri de Date si Algoritmi\Lab4\MD.cpp(232,20): warning C4018: '<': signed/unsigned mismatch
+C:\Users\danie\Desktop\Repos\University\Facultate\Semestrul 2\Structuri de Date si Algoritmi\Lab4\MD.cpp(234,25): warning C4018: '<': signed/unsigned mismatch
+C:\Users\danie\Desktop\Repos\University\Facultate\Semestrul 2\Structuri de Date si Algoritmi\Lab4\MD.cpp(245,20): warning C4018: '<': signed/unsigned mismatch
+  TestExtins.cpp
+C:\Users\danie\Desktop\Repos\University\Facultate\Semestrul 2\Structuri de Date si Algoritmi\Lab4\TestExtins.cpp(230,3): warning C4554: '&': check operator precedence for possible error; use parentheses to clarify precedence
+C:\Users\danie\Desktop\Repos\University\Facultate\Semestrul 2\Structuri de Date si Algoritmi\Lab4\TestExtins.cpp(239,3): warning C4554: '&': check operator precedence for possible error; use parentheses to clarify precedence
+C:\Users\danie\Desktop\Repos\University\Facultate\Semestrul 2\Structuri de Date si Algoritmi\Lab4\TestExtins.cpp(240,3): warning C4554: '&': check operator precedence for possible error; use parentheses to clarify precedence
+  TestScurt.cpp
+  Generating Code...
+  Lab4.vcxproj -> C:\Users\danie\Desktop\Repos\University\Facultate\Semestrul 2\Structuri de Date si Algoritmi\Lab4\Debug\Lab4.exe
